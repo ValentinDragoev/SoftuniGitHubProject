@@ -1,1 +1,1 @@
-# SoftuniGitHubProject
+# SoftUniGitHubProject
